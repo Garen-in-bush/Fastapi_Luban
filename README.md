@@ -1,2 +1,2 @@
 # Fastapi_Luban
-根据数据库表快速生成fastapi响应模型
+Generate response model for fastapi based on Database
